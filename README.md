@@ -101,8 +101,11 @@ Whether iROAS uses revenue or contribution margin should match the number your m
 
 If you want to know which of these numbers should drive your budget, send me a note and we'll talk it through: [Get in touch](https://brinkeranalytics.com/contact).
 
+Lined the floor up and still not sure which number to manage the business to? [Can One Number Run Your Whole Business?](https://brinkeranalytics.com/guides/can-one-number-run-your-whole-business) walks the ladder. For many brands, EBITDA sits at the top of the ladder, and MER is a rung under it.
+
 ## Free reading on brinkeranalytics.com
 
+- [Break-even ROAS, MER and iROAS calculator](https://brinkeranalytics.com/break-even-roas-calculator): the same math in the browser, including a margin lookup table.
 - [Why your Meta, Google, GA4, Shopify, and finance numbers disagree](https://brinkeranalytics.com/insights/why-marketing-numbers-disagree)
 - [When Meta, Google and others claim the same sales, which number decides spend?](https://brinkeranalytics.com/insights/when-platforms-claim-the-same-sales)
 - [Marketing measurement glossary for DTC brands](https://brinkeranalytics.com/insights/measurement-glossary-dtc)
